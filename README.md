@@ -2,9 +2,9 @@
 
 ```
 $ whoami
-Head of IT @ Gottex Brokers SA (Switzerland), institutional broker.
-Trading infrastructure, network and security, FinTech tooling.
-10+ years in financial-services IT, last 18 months as Head of IT.
+Head of IT, nearly 15 years of hands-on technical experience.
+Trading platforms, network and security, FinTech tooling.
+Strong technical depth across the full stack.
 ```
 
 Bridge between business and IT. Strategy meets terminal: designing trading
@@ -61,12 +61,6 @@ More coming, extracting reusable patterns from a decade of FinTech ops:
 - StructCAD: structural engineering toolkit, Eurocode-compliant
 - Qorentix: algorithmic FX trading bot on OANDA
 - Self-hosted n8n: workflow automation lab
-
-## Stats
-
-![Farid's GitHub stats](https://github-readme-stats.vercel.app/api?username=fawraw&show_icons=true&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawraw&layout=compact&hide_border=true)
 
 ## Contact
 
