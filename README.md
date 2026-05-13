@@ -46,7 +46,7 @@ CISM | PMP | CCNP | Palo Alto NGFW | ITIL 4 Strategic Leader
 
 ## Open source
 
-- [claude-skills-fintech-ops](https://github.com/fawraw/claude-skills-fintech-ops): 14 Claude Code skills for FinTech ops (trading, infra, network, frontend, data), extracted from a decade of production
+- [claude-skills-fintech-ops](https://github.com/fawraw/claude-skills-fintech-ops): 24 Claude Code skills for FinTech ops (trading, infra, network, security, monitoring, telephony, frontend, data), extracted from a decade of production
 - [quantlib-irs-toolkit](https://github.com/fawraw/quantlib-irs-toolkit): IRS curve bootstrapping in Python with QuantLib (PLN, HUF, CZK, ZAR)
 - [excel-dna-trading-addin-template](https://github.com/fawraw/excel-dna-trading-addin-template): production-grade Excel-DNA starter for trading floors: ribbon, MSAL, cell watcher, backend client
 - [proxmox-host-hardening](https://github.com/fawraw/proxmox-host-hardening): CIS-aligned hardening playbook for Proxmox VE 8 hosts
