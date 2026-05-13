@@ -61,5 +61,6 @@ CISM | PMP | CCNP | Palo Alto NGFW | ITIL 4 Strategic Leader
 
 ## Contact
 
-- Website: [faridsaid.com](https://faridsaid.com)
+- Site: [fawraw.github.io](https://fawraw.github.io/) (this profile, on the web)
+- Personal: [faridsaid.com](https://faridsaid.com)
 - Location: Switzerland
